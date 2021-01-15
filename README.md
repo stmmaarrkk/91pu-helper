@@ -11,13 +11,13 @@ This is an chrome extension that provide some extra functions to improve the use
 ### Install tutorial ###
 <ol type="1">
   <li> 從此網站上如圖所示下載zip檔並解壓縮  
-  ![image]("../Tutorial_images/step0.jpg")
+  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step0.jpg")
   <li> 輸入 "chrome://extensions" 到網址欄
-  ![image]("../Tutorial_images/step1.jpg")
+  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step1.jpg")
   <li> 先開啟右上角 "開發者模式"，並點選左上角 "載入未打包檔案" ，到剛剛解壓縮的目錄，選擇 "91pu-helper" 資料夾  
-  ![image]("../Tutorial_images/step2.jpg")
+  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step2.jpg")
   <li> 確認插件有打開後，就可以到91譜試試看了  
-  ![image]("../Tutorial_images/step3.jpg")
+  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step3.jpg")
 </ol>
 
 ### Demo video ###
