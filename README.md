@@ -7,7 +7,7 @@ This is an chrome extension that provide some extra functions to improve the use
   <li> Block thd AD
   <li> Transpose the song chord to a new key.
 </ul>
-![] (https://lh3.googleusercontent.com/p9W6QVVjfvuKvX--nD7jjEzjmYCjmVnYldhKqmidS4x52MF8GodG4r5tKEIOn18_LmcCD3RuZEJfdGlnCyhKQCSnWkoS4rKABdOf-I47p42Gr8f_juwzAf1dmwo22O0_TwSwFjBPRw=w2400)
+![] (https://lh3.googleusercontent.com/p9W6QVVjfvuKvX--nD7jjEzjmYCjmVnYldhKqmidS4x52MF8GodG4r5tKEIOn18_LmcCD3RuZEJfdGlnCyhKQCSnWkoS4rKABdOf-I47p42Gr8f_juwzAf1dmwo22O0_TwSwFjBPRw=w600-h315-p-k)
 ### Install tutorial ###
 <ol type="1">
   <li> 從此網站上如圖所示下載zip檔並解壓縮  
