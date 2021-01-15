@@ -7,7 +7,7 @@ This is an chrome extension that provide some extra functions to improve the use
   <li> Block thd AD
   <li> Transpose the song chord to a new key.
 </ul>
-![] (https://lh3.googleusercontent.com/pw/ACtC-3ezHC0ejeEGXVLSsIL4di6m2z4xawzBgdLb1CjZz26344lXNowdJjYsDj7lsLVZxnaY4x37Rfo5Hl7Kh3DWzzaL-bmCLm1ZJUqDIFMSWJ4tdu5eUaMUbmH_5l9Prb01UtwedZACTLFLxtz_7FcrLFnf=w1028-h668-no?authuser=0)
+![] (https://lh3.googleusercontent.com/vKQ1kU1ksrNQyeRmN1ZFS02965ZKYdThssQb-Y6SEhagRyrjM8tw8MhhHNCASgPirzU3RRdAzz6FH7rS6-wXZegvHnpcUAp69AKM1AvlbCZCn78tTfrBvczCr0qiNndIOFiVdPJRxEppCVhVlnLLJruF_00GW7OM0NcRIlDb8DcvYHFF9Cfo7vJZqe2wXELHGbCskkD3zhGuVo6arVSkuAgquYShbPr8B7kVLHvLULDwAFXjaG77kuQCniBpftl0bl1fuJZwehJK_weLZL_2I4mItW1Ogev_E2lwQi5UWrmyE2yTOqaTGOwkWVuJwNruzW97SLkMi9Gv8c301W1S3XVqWducJ-6XHt_RF2NVuU6CHWu0BJ6SiC-eNE7dZ4kwULHC70iABNiOpAgDZW1x0qFgT4m1obS5eRu-nbkdy5VLNDH6CdA1XE57lpyiJoM3-CgO3GhI4wf_3GDiudIAMD0dgGe2R11OI1mdfsBHxqOmEwvx1XAV2E3fyZumqRncsbAXdrPzrcoLEXM7GNnEFX-mu88Tx6UWjNqY_X8wHHLwfONvVrONOQtpPQKtzJgS-YeccUdNbSjWOrywyP-irULcMCx1xNbsPfRMCQcUV8lEtND3ihHiJB8pmsf0fiTXrYW4ylZKq5m0VfrAOhq69eAblfguoOjKEctzGdgjXQW8mzn7-ARl2xeyr4b7=w1028-h668-no?authuser=1)
 ### Install tutorial ###
 <ol type="1">
   <li> 從此網站上如圖所示下載zip檔並解壓縮  
