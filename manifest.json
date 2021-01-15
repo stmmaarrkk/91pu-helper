@@ -1,0 +1,24 @@
+{
+    "name":"91pu Helper",
+    "description":"Improve the user experience of 91pu",
+    "version":"1",
+    "manifest_version":2,
+    "content_scripts": [
+        {
+          "matches": ["https://www.91pu.com.tw/*"],
+          "js": ["helper.js"],
+          "run_at": "document_start"
+        }
+    ],
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "icons": {
+        "16": "./icons/guitar_16.png",
+        "32": "./icons/guitar_32.png",
+        "48": "./icons/guitar_48.png",
+        "128": "./icons/guitar_128.png"
+
+    }
+}
