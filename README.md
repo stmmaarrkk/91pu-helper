@@ -7,17 +7,17 @@ This is an chrome extension that provide some extra functions to improve the use
   <li> Block thd AD
   <li> Transpose the song chord to a new key.
 </ul>
-![image] (https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step0.png)     
+
 ### Install tutorial ###
 <ol type="1">
   <li> 從此網站上如圖所示下載zip檔並解壓縮  
-  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step0.png")  
+  ![image](https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step0.png)  
   <li> 輸入 "chrome://extensions" 到網址欄
-  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step1.png")
+  ![image](https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step1.png)
   <li> 先開啟右上角 "開發者模式"，並點選左上角 "載入未打包檔案" ，到剛剛解壓縮的目錄，選擇 "91pu-helper" 資料夾  
-  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step2.png")
+  ![image](https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step2.png)
   <li> 確認插件有打開後，就可以到91譜試試看了  
-  ![image]("https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step3.png")
+  ![image](https://github.com/stmmaarrkk/91pu-helper/blob/master/Tutorial_images/step3.png)
 </ol>
 
 ### Demo video ###
